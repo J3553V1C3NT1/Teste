@@ -3,4 +3,4 @@
 
  Repositório teste!
 
-Linha adiconada no site
+Linha adicionada no site
